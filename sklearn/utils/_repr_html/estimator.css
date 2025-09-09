@@ -260,7 +260,7 @@ clickable and can be expanded/collapsed.
 #$id div.sk-label label {
   font-family: monospace;
   font-weight: bold;
-  display: inline-block;
+  display: inline-flex;
   line-height: 1.2em;
 }
 
